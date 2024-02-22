@@ -81,3 +81,6 @@ In this portion of the study three inferential tests were run, tow Chi-Squared t
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+We can conclude from our graphical and numerical data, the patients in the placebo group contracted aids at a higher frequency than patients in the treatment group. That along with the statistical inference shows there is a statistical difference in the data. We can also conclude there is a negative correlation between the drug use the frequency of the disease. Due to the high number of participants, random variation did not have a significant role in the data. Therefore, we can infer the drug is effective in preventing aids.
